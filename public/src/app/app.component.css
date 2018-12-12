@@ -1,0 +1,37 @@
+.root{
+  border: 5px solid red;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.getTasks{
+  width: 600px;
+  border: 3px solid green;
+  border-radius: 10px;
+  padding: 10px;
+  display: inline-block;
+}
+
+.postForm{
+  border: 3px solid orange;
+  border-radius: 10px;
+  padding: 10px;
+
+}
+
+.displayTasks{
+  border: 1px solid grey;
+  border-radius: 10px;
+  padding: 10px;
+  margin-bottom: 3px;
+}
+
+.updateForm{
+  width: 538px;
+  vertical-align: top;
+  margin-left: 10px;
+  border: 3px solid blue;
+  border-radius: 10px;
+  padding: 10px;
+  display: inline-block;
+}
